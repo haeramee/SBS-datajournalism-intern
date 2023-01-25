@@ -4,6 +4,7 @@
 
 <details>
 <summary>The file I used contains the following indicators</summary>
+
     - Total Population, as of 1 January (thousands)
     - Total Population, as of 1 July (thousands)
     - Male Population, as of 1 July (thousands)
@@ -58,6 +59,7 @@
     - Female Mortality between Age 15 and 60 (deaths under age 60 per 1,000 females alive at age 15)
     - Net Number of Migrants (thousands)
     - Net Migration Rate (per 1,000 population)
+    
 </details>
 
 - Complete (estimates and all projection scenarios) (XLSX, 93.17 MB)
