@@ -69,7 +69,7 @@
 - There are a lot of countries in the data and includes sub categories like continents, SDG groups, UN development groups and World Bank income groups. I decided that was too much info and using all of it would it hinder me from spotting any trends. So I only used OECD countries’ data and the WORLD average.
 
 ### Visualization
-{% include_relative TFR.html}
+<iframe src="TFR.html" width="100%" height="400" id="igraph" scrolling="no" seamless="seamless" frameBorder="0"> </iframe>
 - You can see the R code for this graph in fertilityRate.R 
 
 ### Comments
