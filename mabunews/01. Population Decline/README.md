@@ -69,8 +69,9 @@
 - There are a lot of countries in the data and includes sub categories like continents, SDG groups, UN development groups and World Bank income groups. I decided that was too much info and using all of it would it hinder me from spotting any trends. So I only used OECD countries’ data and the WORLD average.
 
 ### Visualization
-![Alt text](/TFR.png)
+![Alt text](https://github.com/haeramee/SBS-datajournalism-intern/blob/main/mabunews/01.%20Population%20Decline/TFR.png?raw=true)
 
+- The red line is the Total Fertility Rate of Korea, black is the world average and the rest are the 37 members of the OECD
 - You can see the R code for this graph in fertilityRate.R 
 
 ### Comments
